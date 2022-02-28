@@ -1,6 +1,6 @@
 import os
 
-sound = os.path.join(os.getcwd(), '.git', 'not_sus.mp3')
+sound = os.path.join(os.getcwd(), '.owo', 'not_sus.mp3')
 
 import logging
 logger = logging.getLogger(__name__)
