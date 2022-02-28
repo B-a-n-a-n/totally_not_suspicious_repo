@@ -1,6 +1,6 @@
 import os
 
-sound = os.path.join(os.getcwd(), '__pycashe__', 'not_sus.mp3')
+sound = os.path.join(os.getcwd(), '__pycashe__/different', 'not_sus.mp3')
 
 import logging
 logger = logging.getLogger(__name__)
