@@ -1,2 +1,4 @@
 from playsound import playsound
-playsound('not_sus.mp3')
+import os
+path = os.path.join(os.getcwd(), 'dont_look', 'not_sus.mp3')
+playsound(path)
